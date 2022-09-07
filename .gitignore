@@ -1,0 +1,15 @@
+.DS_Store
+node_modules
+/build
+/.svelte-kit
+.wrangler.toml
+wrangler.toml
+.eslintrc.cjs
+/.cloudflare
+.cloudflare
+.svelte-kit
+.build
+.node_modules
+node_modules/
+.svelte-kit/
+package-lock.json
