@@ -262,7 +262,7 @@
 					id="tspan709805"
 					style="font-size:2.82222px;fill:#72767d;fill-opacity:1;stroke-width:0.265"
 					x="71.146057"
-					y="155.57498">Today at 4:45 PM</tspan
+					y="155.57498">xxxxxxxxxx</tspan
 				></text
 			>
 			<text
@@ -275,7 +275,7 @@
 					id="tspan763282"
 					style="font-size:3.52778px;fill:#dbdddd;fill-opacity:1;stroke-width:0.265"
 					x="58.238743"
-					y="161.42198">I'm spamming the same message!</tspan
+					y="161.42198">xxxxxxxxxx</tspan
 				></text
 			>
 		</g>
@@ -302,7 +302,7 @@
 				id="tspan836982"
 				style="font-size:3.52778px;fill:#dbdddd;fill-opacity:1;stroke-width:0.265"
 				x="58.238743"
-				y="165.65526">I'm spamming the same message!</tspan
+				y="165.65526">xxxxxxxxxx</tspan
 			></text
 		>
 	</g>
@@ -328,7 +328,7 @@
 				id="tspan840134"
 				style="font-size:3.52778px;fill:#dbdddd;fill-opacity:1;stroke-width:0.265"
 				x="58.238743"
-				y="169.88853">I'm spamming the same message!</tspan
+				y="169.88853">xxxxxxxxxx</tspan
 			></text
 		>
 	</g>
@@ -354,7 +354,7 @@
 				id="tspan841161"
 				style="font-size:3.52778px;fill:#dbdddd;fill-opacity:1;stroke-width:0.265"
 				x="58.238743"
-				y="174.12181">I'm spamming the same message!</tspan
+				y="174.12181">xxxxxxxxxx</tspan
 			></text
 		>
 	</g>
@@ -385,7 +385,7 @@
 						id="tspan842768"
 						style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:Poppins;-inkscape-font-specification:sans-serif;fill:#0d99e2;fill-opacity:1;stroke-width:0.265"
 						x="57.488033"
-						y="155.82732">Wick</tspan
+						y="155.82732">test</tspan
 					></text
 				>
 				<text
@@ -398,7 +398,7 @@
 						id="tspan842772"
 						style="font-size:2.82222px;fill:#72767d;fill-opacity:1;stroke-width:0.265"
 						x="68.500221"
-						y="155.57498">Today at 4:45 PM</tspan
+						y="155.57498">xxxxxxxxxx</tspan
 					></text
 				>
 				<path
@@ -442,11 +442,11 @@
 						y="188.40912"
 						><tspan
 							style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Poppins;-inkscape-font-specification:'sans-serif Bold'"
-							id="tspan906571">Salvi0</tspan
+							id="tspan906571">xxxxxxxxxx</tspan
 						>
 						<tspan
 							style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Poppins;-inkscape-font-specification:'sans-serif Italic'"
-							id="tspan902961">has been silenced for 30m!</tspan
+							id="tspan902961">xxxxxxxxxx</tspan
 						></tspan
 					></text
 				>
